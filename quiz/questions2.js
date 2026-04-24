@@ -1547,7 +1547,7 @@ window.questions = {
       ]
     }
   ],
-  "정보시스템기술" : const informationSystemQuestions = [
+  "정보시스템기술" : [
   {
     id: 1,
     type: "mc",
